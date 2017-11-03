@@ -1,0 +1,4 @@
+This is the list of meals for our MENU :
+pile - 30.0;
+tele6ko - 30.0;
+svinsko - 30.0;
